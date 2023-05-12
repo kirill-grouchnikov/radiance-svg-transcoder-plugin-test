@@ -1,0 +1,14 @@
+# Compiled class file
+*.class
+.DS_Store
+
+.gradle/
+.idea/
+.settings/
+build/
+out/
+bin/
+drop/*-SNAPSHOT/**
+
+src/main/java/org/radiance/demo/svg
+
