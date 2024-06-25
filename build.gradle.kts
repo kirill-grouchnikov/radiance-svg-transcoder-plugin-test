@@ -58,7 +58,7 @@ java {
 
 idea {
     module {
-        generatedSourceDirs.add(file("$rootDir/src/gen/kotlin"))
+        generatedSourceDirs.add(file("$rootDir/src/gen/java"))
     }
 }
 
