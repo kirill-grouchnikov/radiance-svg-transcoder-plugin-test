@@ -1,0 +1,9 @@
+[versions]
+versionchecker = "0.51.0"
+radiance = "7.5.0"
+
+[libraries]
+versionchecker-gradlePlugin = { module = "com.github.ben-manes:gradle-versions-plugin", version.ref = "versionchecker" }
+radiance-gradlePlugin = { module = "org.pushing-pixels:radiance-svg-transcoder-gradle-plugin", version.ref = "radiance" }
+
+radiance-common = { module = "org.pushing-pixels:radiance-common", version.ref = "radiance" }

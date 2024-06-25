@@ -4,6 +4,7 @@
 
 .gradle/
 .idea/
+.kotlin/
 .settings/
 build/
 out/
@@ -11,4 +12,4 @@ bin/
 drop/*-SNAPSHOT/**
 
 src/main/java/org/radiance/demo/svg
-
+src/gen/
