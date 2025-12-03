@@ -1,5 +1,5 @@
 [versions]
-versionchecker = "0.51.0"
+versionchecker = "0.53.0"
 radiance = "8.5-SNAPSHOT"
 
 [libraries]
