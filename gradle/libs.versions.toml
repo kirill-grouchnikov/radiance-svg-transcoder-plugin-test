@@ -1,6 +1,6 @@
 [versions]
 versionchecker = "0.51.0"
-radiance = "8.0-SNAPSHOT"
+radiance = "8.5-SNAPSHOT"
 
 [libraries]
 versionchecker-gradlePlugin = { module = "com.github.ben-manes:gradle-versions-plugin", version.ref = "versionchecker" }
